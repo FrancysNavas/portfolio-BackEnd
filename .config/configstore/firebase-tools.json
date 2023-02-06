@@ -1,0 +1,38 @@
+{
+	"analytics-uuid": "2c33a34f-d15e-460e-972f-c830c683069a",
+	"usage": false,
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1675000379875
+	},
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "102657089090348288822",
+		"email": "francys.navas.sanchez@gmail.com",
+		"email_verified": true,
+		"at_hash": "giZRnbIbGypbYUvu6afpFg",
+		"iat": 1675000456,
+		"exp": 1675004056
+	},
+	"tokens": {
+		"expires_at": 1675049007505,
+		"refresh_token": "1//0hCv5sJhb9EyXCgYIARAAGBESNwF-L9Irs_NeeuLDKLQDHzPU8xcmjAVRhlzEuTbFh-xCJYYrWrkGAWW5bKxkO0FLCIYCOwaiD-g",
+		"scopes": [],
+		"access_token": "ya29.a0AVvZVsoZvLYgrIJRUmkuzWp3cRYMEX72kEsye9OU6TuUo4KVSWhCPCHfYKz_abfHEr7Meq6JjZZHlPwy3mdFvIagEdGfAR4Eh60k_EvhqPhmeyCKzghfOGyMnPxSqvlyZwIeH4x5g47iHtb4VkKsGBWY21WzLEJKjjMKBQaCgYKASsSAQASFQGbdwaIBZvhadMYFKHG8n3WFeLFhQ0173",
+		"expires_in": 3599,
+		"scope": "openid https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFmYzRmYmE2NTk5ZmY1ZjYzYjcyZGM1MjI0MjgyNzg2ODJmM2E3ZjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAyNjU3MDg5MDkwMzQ4Mjg4ODIyIiwiZW1haWwiOiJmcmFuY3lzLm5hdmFzLnNhbmNoZXpAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJzVHJrR1AxeGVXTHA4eUIwNkpiMlpRIiwiaWF0IjoxNjc1MDQ1NDA4LCJleHAiOjE2NzUwNDkwMDh9.K6FySWQmG5YWin6PnZhd-sTb6XVN-BlLcI8Rq229sJuwQ5DAelySUNangr2LUscTs10VeBHglGgmApGgLOOqPAQ1sdn7tvv4HtlqM3Zypw7ikqr3xxNovvIiKBYhH4TkYGov0TSq6dKEiNh6qgnoEuDdwN8FvuraDkkfKUPlhS4ZyiNTmC0Cq8zwFvvgZ7ypn_ROMrmRgi0PyU75JtZk04uI7AIabrH_ZocfcX2diWmVcO7pgyGae6IE3-Owk6ybQLJzG0hX1JZMn7Nu5Uwq4XMY2xaKi8k6WNP4cLjPZlZdwwedQw78HE43NsNZnGgkmIbO_WBtpqM9nJlL41xQgw"
+	},
+	"activeAccounts": {
+		"C:\\Users\\danie\\OneDrive\\Escritorio\\ProyectoFinalAP\\portfolio-FrontEnd\\portfolio-FrontEnd": "francys.navas.sanchez@gmail.com"
+	}
+}
